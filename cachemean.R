@@ -8,4 +8,4 @@ cachemean <- function(x, ...) {
   m <- mean(data, ...)
   x$setmean(m)
   m
-}
+} 
